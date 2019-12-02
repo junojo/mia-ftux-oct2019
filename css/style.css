@@ -1,8 +1,24 @@
-
+* {
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    color:chocolate;
+}
+h2 {
+    color:lime;
+}
+h3 {
+    color:khaki;
+}
+h4 {
+    color:midnightblue;
+}
 h5 {
     color: magenta;
 }
-
 h6 {
     color: coral;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
 }
